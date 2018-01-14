@@ -1,4 +1,4 @@
-
+Figlet EmailHacker
 
 echo Simple Email Cracking Script in Termux
 echo Written By: Cyb3r3x3r
